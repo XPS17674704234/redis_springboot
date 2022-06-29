@@ -6,5 +6,7 @@ public class RedisTest {
         System.out.println("git测试");
         System.out.println("git测试2");
         System.out.println("git测试3");
+        System.out.println("git测试4");
+
     }
 }
