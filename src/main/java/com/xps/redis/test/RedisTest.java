@@ -9,6 +9,7 @@ public class RedisTest {
         System.out.println("git测试4");
         System.out.println("master-test");
         System.out.println("hot-fix");
+        System.out.println("git-hub-test");
 
     }
 }
